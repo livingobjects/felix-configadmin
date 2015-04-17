@@ -1,2 +1,2 @@
 # felix-configadmin
-Fork of config-admin without a race condition, and with working integration tests
+Fork of config-admin trunk (not updated for a while) with working integration tests
